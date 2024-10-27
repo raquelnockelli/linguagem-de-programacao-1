@@ -22,7 +22,7 @@ O objetivo deste repositório é armazenar e compartilhar os códigos desenvolvi
 - **Ambiente de Desenvolvimento**: IDEs compatíveis com C, como Code::Blocks ou Visual Studio Code
 
 ## 👤 Desenvolvedora
-- **Raquel Nockelli **
+- **Raquel Nockelli**
 
 ## ℹ️ Observações
 Os arquivos contidos aqui foram desenvolvidos para fins de estudo e prática acadêmica como parte das atividades da FATEC Sorocaba, e não têm finalidade comercial.
